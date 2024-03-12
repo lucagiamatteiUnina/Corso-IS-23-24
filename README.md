@@ -1,2 +1,2 @@
-# Corso-IS-22-23
-Repository github per il corso di Ingegneria del Software A.A. 2022/2023
+# Corso-IS-23-24
+Repository github per il corso di Ingegneria del Software A.A. 2023/2024
